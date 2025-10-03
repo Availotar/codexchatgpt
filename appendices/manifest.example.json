@@ -1,0 +1,19 @@
+{
+  "title": "נספחים לדוגמה",
+  "appendices": [
+    {
+      "description": "דוגמה לנספח טקסטואלי",
+      "file": "examples/appendix_a.txt",
+      "type": "text"
+    },
+    {
+      "description": "נספח טקסט נוסף",
+      "file": "examples/appendix_b.txt"
+    },
+    {
+      "description": "תוכן HTML לדוגמה",
+      "file": "examples/appendix_c.html",
+      "type": "html"
+    }
+  ]
+}
